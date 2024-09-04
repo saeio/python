@@ -5,7 +5,7 @@ if resp == "sair de casa" :
     print(f"{nome} saiu de casa.")
     q = input("agora tu quer fazer oq? ir pro parque ou pra lanchonete?")
     if q == "ir pro parque":
-        print(f"{nome} foi pro parque e deu o cu")
+        print(f"{nome} foi pro parque e descansou")
     elif q == "ir pra lanchonete" or "pra lanchonete":
         print(f"{nome} foi pra lanconete come uns xtudo")
         print("tu comeu quantos?")
